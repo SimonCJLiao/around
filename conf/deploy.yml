@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://34.171.171.238:9200"
+  username: "simon"
+  password: "980916Jj"
+
+gcs:
+  bucket: "around98"
+
+token:
+  secret: "secret"
