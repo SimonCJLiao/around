@@ -83,7 +83,7 @@ function PhotoGallery(props) {
     return (
        <div style={wrapperStyle}>
             <Gallery
-                images={imageArr}
+            images = {imagaArr}
                 enableImageSelection={false}
                 backdropClosesModal={true}
                 currentImageWillChange={onCurrentImageChange}

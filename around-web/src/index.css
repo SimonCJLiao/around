@@ -1,8 +1,9 @@
-
-@import "~antd/dist/reset.css";
 @import "./styles/App.css";
-@import "./styles/TopBar.css";
+@import "~antd/dist/reset.css";
+@import "./styles/Register.css";
+@import "styles/SearchBar.css";
 @import "./styles/Main.css";
+@import "./styles/TopBar.css";
 
 body {
   margin: 0;
